@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T23:37:08.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="XMpfKsJsf3itxKL8z6oV" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T23:42:47.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="OSkvxoQtTekYebs8Nwh8" version="14.9.2" type="github">
   <diagram id="vMZTRoBfWCu26qJxV5V9" name="Page-1">
-    <mxGraphModel dx="722" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OPi2kh65O3nCCGF9FlZ3-1" value="Ejercicio 7" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OPi2kh65O3nCCGF9FlZ3-1" value="Ejercicio 7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OPi2kh65O3nCCGF9FlZ3-2" target="OPi2kh65O3nCCGF9FlZ3-3">
@@ -31,7 +31,7 @@
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-9" value="1:N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="200" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OPi2kh65O3nCCGF9FlZ3-10" value="Ejercicio 8" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OPi2kh65O3nCCGF9FlZ3-10" value="Ejercicio 8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OPi2kh65O3nCCGF9FlZ3-12" target="OPi2kh65O3nCCGF9FlZ3-14">
@@ -58,7 +58,7 @@
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-18" value="1:N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OPi2kh65O3nCCGF9FlZ3-19" value="Ejercicio 9" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OPi2kh65O3nCCGF9FlZ3-19" value="Ejercicio 9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OPi2kh65O3nCCGF9FlZ3-21" target="OPi2kh65O3nCCGF9FlZ3-23">
@@ -106,7 +106,7 @@
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-35" value="N:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="660" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OPi2kh65O3nCCGF9FlZ3-36" value="Ejercicio 10" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OPi2kh65O3nCCGF9FlZ3-36" value="Ejercicio 10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OPi2kh65O3nCCGF9FlZ3-38">
@@ -138,7 +138,7 @@
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-44" value="Medicamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="880" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OPi2kh65O3nCCGF9FlZ3-45" value="Ejercicio 11" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OPi2kh65O3nCCGF9FlZ3-45" value="Ejercicio 11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="960" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OPi2kh65O3nCCGF9FlZ3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OPi2kh65O3nCCGF9FlZ3-47">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T05:37:32.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="q2Li_-RNHE5jxIYz9VS1" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T05:42:44.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="1XQ27mMhVsVi9T_lbj1C" version="14.9.5" type="github">
   <diagram id="q3hd7c9gMeF3B857g5gY" name="Page-1">
-    <mxGraphModel dx="495" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,17 +98,23 @@
         <mxCell id="Xfq3Dx4rUXL4i1GswZbw-22" value="0.4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="273" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-23" value="0.5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-23" value="0.6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="613" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-24" value="0.5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-24" value="0.4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="473" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-25" value="$10 mensuales&lt;br&gt;1,000,000 usuarios&lt;br&gt;Monto anual: $10,000,000 aprox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-25" value="$10 mensuales&lt;br&gt;100,000 usuarios&lt;br&gt;Monto anual: $12,000,000 aprox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="298" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-26" value="$20 mensuales&lt;br&gt;1,000,000 usuarios&lt;br&gt;Monto anual: $240,000,000 aprox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-26" value="$20 mensuales&lt;br&gt;100,000 usuarios&lt;br&gt;Monto anual: $24,000,000 aprox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="138" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-27" value="$10 mensuales&lt;br&gt;1,000,000 usuarios&lt;br&gt;Monto anual: $12,000,000 aprox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="488" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfq3Dx4rUXL4i1GswZbw-28" value="$15 mensuales&lt;br&gt;1,000,000 usuarios&lt;br&gt;Monto anual: $18,000,000 aprox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="633" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

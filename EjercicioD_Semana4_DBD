@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T01:51:22.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="QcVHGxIFf89eShwp2p9M" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T01:52:50.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="NoNPOLl3YWL5OiDmoyme" version="14.9.7" type="github">
   <diagram id="m8OAWaIgqLXsbbkrlvnd" name="Page-1">
-    <mxGraphModel dx="241" dy="120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="495" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,6 +133,9 @@
         <mxCell id="HXZz-FiVjzmnJsttOe3L-55" value="fecha_devolución" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="706" y="374" width="104" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="HXZz-FiVjzmnJsttOe3L-138" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="HXZz-FiVjzmnJsttOe3L-60" target="HXZz-FiVjzmnJsttOe3L-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HXZz-FiVjzmnJsttOe3L-60" value="Distribuidor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="100" height="40" as="geometry" />
         </mxCell>
@@ -158,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HXZz-FiVjzmnJsttOe3L-84" value="correo_electronico_distribuidor" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="325" y="125" width="186" height="30" as="geometry" />
+          <mxGeometry x="330" y="130" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HXZz-FiVjzmnJsttOe3L-118" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.646;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="HXZz-FiVjzmnJsttOe3L-117" target="HXZz-FiVjzmnJsttOe3L-3">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +182,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HXZz-FiVjzmnJsttOe3L-135" value="id_distribuidor" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXZz-FiVjzmnJsttOe3L-139" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HXZz-FiVjzmnJsttOe3L-137" target="HXZz-FiVjzmnJsttOe3L-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXZz-FiVjzmnJsttOe3L-137" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="238.75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

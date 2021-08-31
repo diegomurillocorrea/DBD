@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T04:55:18.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="OWN9VXH-I-OvvgW9DlvY" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T04:59:43.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="5NK7B-p7SUMuhwN7qJk4" version="15.0.3" type="github">
   <diagram id="YqydsgM4HEAylg45LjgD" name="Page-1">
-    <mxGraphModel dx="241" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,10 +139,10 @@
         <mxCell id="N029_rlei7-6v6upJ5bm-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="N029_rlei7-6v6upJ5bm-1">
           <mxGeometry y="78" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="N029_rlei7-6v6upJ5bm-4" value="+ lanzarBalon()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="N029_rlei7-6v6upJ5bm-1">
+        <mxCell id="N029_rlei7-6v6upJ5bm-4" value="+ jugarPartidosAmistosos()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="N029_rlei7-6v6upJ5bm-1">
           <mxGeometry y="86" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="N029_rlei7-6v6upJ5bm-5" value="+ defenderMeta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="N029_rlei7-6v6upJ5bm-1">
+        <mxCell id="N029_rlei7-6v6upJ5bm-5" value="+ jugarPartidosDeLiga()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="N029_rlei7-6v6upJ5bm-1">
           <mxGeometry y="112" width="170" height="26" as="geometry" />
         </mxCell>
       </root>

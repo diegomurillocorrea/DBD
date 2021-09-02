@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T05:38:06.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="sdo39MNAYFqfSL_OjUdP" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T05:41:58.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="nuMz0BwE_0hOrmigv1c4" version="15.0.3" type="github">
   <diagram id="aF75gbhq0cl7Sm7Py0rW" name="Page-1">
-    <mxGraphModel dx="289" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,13 +11,13 @@
           <mxGeometry x="210" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g551aqypD-QnL5e6muIU-4" value="DUI_Alumno" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g551aqypD-QnL5e6muIU-5" value="Direccion_Alumno" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="110" height="40" as="geometry" />
+          <mxGeometry x="205" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g551aqypD-QnL5e6muIU-6" value="Telefono_Alumno" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="315" y="90" width="110" height="40" as="geometry" />
+          <mxGeometry x="205" y="70" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g551aqypD-QnL5e6muIU-7" value="Alumnos_Empleados" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="130" height="40" as="geometry" />

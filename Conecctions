@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T07:26:36.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="0UdxeaTvRI4TMaOrVo88" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T07:26:46.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="DHaO5juGU3bpqYntEcVo" version="15.0.3" type="github">
   <diagram id="Z06d8Yc_2vQeDo0-Xlzt" name="Page-1">
-    <mxGraphModel dx="597" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-64VnkImjCLC2o1lD7Pn-155" value="Cursos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="180" height="220" as="geometry" />
+          <mxGeometry x="210" y="180" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-64VnkImjCLC2o1lD7Pn-156" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-64VnkImjCLC2o1lD7Pn-155">
           <mxGeometry y="30" width="180" height="30" as="geometry" />

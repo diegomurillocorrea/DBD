@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T06:28:35.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="SC2co4P-vChl9kkKipzk" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T06:30:27.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="HZehjBkjl2LJgh1kuCrP" version="15.0.3" type="github">
   <diagram id="aF75gbhq0cl7Sm7Py0rW" name="Page-1">
-    <mxGraphModel dx="554" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1839" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,6 +147,21 @@
         </mxCell>
         <mxCell id="g551aqypD-QnL5e6muIU-81" value="Alumnos_Desempleados" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g551aqypD-QnL5e6muIU-84" value="Empresa" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="590" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g551aqypD-QnL5e6muIU-85" value="Nombre_Empresa" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g551aqypD-QnL5e6muIU-86" value="Codigo_Empresa" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="250" y="590" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g551aqypD-QnL5e6muIU-87" value="Direccion_Empresa" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g551aqypD-QnL5e6muIU-88" value="Telefono_Empresa" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

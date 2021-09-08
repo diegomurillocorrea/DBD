@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T00:36:50.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="n4Q81dSGisQD0XD1kSOY" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T00:37:53.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="rCmtG0BYnZT06v4v65A3" version="15.0.6" type="github">
   <diagram id="Kpllnkuxepp2epTEv9_A" name="Page-1">
-    <mxGraphModel dx="1019" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="412" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-ZadnbxMo7MqwYsiF6Op-5" value="Horario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="220" width="160" height="86" as="geometry" />
+          <mxGeometry x="410" y="120" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="-ZadnbxMo7MqwYsiF6Op-6" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-ZadnbxMo7MqwYsiF6Op-5">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="-ZadnbxMo7MqwYsiF6Op-28" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-ZadnbxMo7MqwYsiF6Op-25">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZadnbxMo7MqwYsiF6Op-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;endArrow=none;endFill=0;" edge="1" parent="1" source="-ZadnbxMo7MqwYsiF6Op-2" target="-ZadnbxMo7MqwYsiF6Op-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

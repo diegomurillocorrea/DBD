@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T03:57:07.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="tJZqQuE0HAZnxFZDg8-s" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T03:57:13.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="76vZsLuC9x3A8Ii2E1lB" version="15.5.4" type="github">
   <diagram id="lqQEbO7ejHpjNOuA5p21" name="Page-1">
     <mxGraphModel dx="2001" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -372,13 +372,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Vae4sAqEGgu1rBoIVW9-120" value="Cajeros" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="160" height="30" as="geometry" />
+          <mxGeometry x="75" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Vae4sAqEGgu1rBoIVW9-154" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="8Vae4sAqEGgu1rBoIVW9-124" target="8Vae4sAqEGgu1rBoIVW9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Vae4sAqEGgu1rBoIVW9-124" value="Meseros" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="160" height="30" as="geometry" />
+          <mxGeometry x="245" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Vae4sAqEGgu1rBoIVW9-125" value="Administrador" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="-30" width="160" height="30" as="geometry" />

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T03:41:01.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="4yIVL-JfB0dYnY7Q_GDc" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T03:41:24.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="GPVdZyOnR3cke487vAdP" version="15.5.4" type="github">
   <diagram id="lqQEbO7ejHpjNOuA5p21" name="Page-1">
-    <mxGraphModel dx="1571" dy="195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Vae4sAqEGgu1rBoIVW9-60" value="id_usuario" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="8Vae4sAqEGgu1rBoIVW9-58">
+        <mxCell id="8Vae4sAqEGgu1rBoIVW9-60" value="id_orden" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="8Vae4sAqEGgu1rBoIVW9-58">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
